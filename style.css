@@ -198,74 +198,110 @@ body {
 * {
     margin: 0;
     padding: 0;
+    font-family: sans-serif;
 }
 
 .N1 {
-    height: 46.8vw;
-    background: #023A15;
-    border: 1px solid #023A15;
+    width: 99.8vw;
+    height: 46.7vw;
+    display: flex;
+    border: 1px solid #283618;
+    background: #283618;
 }
 
-.N1 h2 {
-    color: #F09C96;
-    font-size: 6vw;
-}
-
-.N1 h1 {
+.N2 a {
     color: white;
-    font-size: 6vw;
-}
-
-.N1 h3 {
-    margin-left: 1vw;
-    color: white;
-    font-size: 6vw;
+    margin-top: 0.5vw;
+    font-weight: 500;
 }
 
 .N2 {
-    display: flex;
-}
-
-.N3 {
-    margin-top: 4vw;
-    align-items: center;
-    justify-content: center;
-    justify-items: center;
-    justify-self: center;
-}
-
-.N4 {
-    width: 10vw;
-    height: 3vw;
-    border: 1px solid none;
-    border-radius: 5px;
-    background: white;
-    display: flex;
-    font-family: sans-serif;
-}
-
-.N4 h6 {
-    margin-top: 1.1vw;
-    margin-left: 5px;
-    color: #023A15;
-}
-
-.N5 {
-    width: 24px;
-    height: 24px;
-    margin-top: 0.6vw;
-    margin-left: 10px;
+    margin-left: 5vw;
+    margin-top: 9vw;
+    display: grid;
 }
 
 .N3 p {
-    margin-top: 1vw;
-    font-family: sans-serif;
+    margin-top: -10vw;
     color: white;
+    display: grid;
+}
+
+.N3 a {
+    text-decoration: none;
+    font-weight: 100;
+}
+
+.N4 a {
+    color: white;
+    font-weight: 500;
+}
+
+.N4 {
+    margin-left: 8vw;
+    margin-top: 10vw;
+}
+
+.N5 a {
+    color: white;
+    font-weight: 500;
+}
+
+.N5 {
+    margin-left: 8vw;
+    margin-top: 10vw;
 }
 
 .N6 {
-    margin-left: -1vw;
-    margin-top: 21.9vw;
-    font-family: sans-serif;
+    margin-top: 2vw;
+}
+
+.N6 a {
+    margin-top: 0.5vw;
+    display: grid;
+    text-decoration: none;
+}
+
+.N7 {
+    margin-top: 2vw;
+}
+
+.N7 a {
+    margin-top: 0.5vw;
+    display: grid;
+    text-decoration: none;
+}
+
+.N8 {
+    Width: 0px;
+    Height: 390px;
+    margin-left: 8vw;
+    margin-top: 9vw;
+    Border: 1px solid #fff;
+}
+
+.N9 h2 {
     color: white;
+    font-weight: 100;
+    margin-left: 12vw;
+    margin-top: 9vw;
+}
+
+.N10 {
+    margin-left: 10vw;
+    margin-top: 2vw;
+}
+
+.N10 img {
+    margin-left: 2vw;
+}
+.N11{
+  margin-top: 14vw;
+    margin-left: 12vw;
+}
+.N11 a{
+    color: white;
+}
+.N12{
+  margin-top: 2vw;
 }
